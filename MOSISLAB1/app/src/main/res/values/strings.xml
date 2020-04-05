@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOSIS-LAB1</string>
+
+    <string name="dugme">Moje Dugme</string>
+
+    <string name="text">Unesite nesto...</string>
+
+    <string name="hello">Hello, World!</string>
+</resources>
