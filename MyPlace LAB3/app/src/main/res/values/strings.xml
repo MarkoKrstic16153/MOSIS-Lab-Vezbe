@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Places</string>
+    <string name="show_map">Show Map</string>string>
+    <string name="new_place">New Place</string>string>
+    <string name="my_places_list">My Places</string>string>
+    <string name="about">About</string>
+    <string name="title_activity_about">About</string>string>
+    <string name="about_text">MY places is the aplication...</string>string>
+    <string name="ok">OK</string>
+    <string name="title_activity_my_places_list">MyPlacesList</string>
+    <string name="title_activity_edit_my_place">EditMyPlaceActivity</string>string>
+    <string name="editmyplace_name_label">Name:</string>
+    <string name="editmyplace_desc_label">Description:</string>
+    <string name="editmyplace_cancle_label">Cancle</string>
+    <string name="editmyplace_finished_button">Finish</string>
+    <string name="title_activity_view_my_places">ViewMyPlacesActivity</string>
+    <string name="viewmyplace_finished_button">OK</string>
+</resources>
