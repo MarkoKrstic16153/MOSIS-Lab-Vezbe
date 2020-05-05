@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myplace.MyPlacesMaps">
+    <item
+        android:id="@+id/my_places"
+        android:orderInCategory="100"
+        android:title="@string/my_places"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_view_as_list"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="103"
+        android:title="@string/about"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_about"/>
+</menu>
